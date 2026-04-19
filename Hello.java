@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Table of 10");
 	for(int i=1;i<=10;i++){
